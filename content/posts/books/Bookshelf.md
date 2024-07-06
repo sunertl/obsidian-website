@@ -10,6 +10,7 @@ Below is an (almost) complete list of books I have read, am planning to read or 
 ### Reading
 
 - The Brothers Karamazov, Fyodor Dostoevsky
+- Prophet Song, Paul Lynch
 
 ### Read
 
@@ -35,13 +36,13 @@ Below is an (almost) complete list of books I have read, am planning to read or 
 While I do believe that a private library has 
 #### Fiction
 
+- The Dispossessed, Ursula K. Le Guin
 - Solaris, Stanislaw Lem
 - Cloud Atlas, David Mitchell
 - Foundation, Isaac Asimov
 - A Canticle for Leibowitz, Walter M. Miller Jr.
 - Anathem, Neal Stephenson
 - Frankenstein, Mary Shelley
-- The Unbearable Lightness of Being, Milan Kundera
 - Catch-22, Joseph Heller
 - The Name of the Rose, Umberto Eco
 - The Three Body Problem, The Dark Forest, Death's End, Liu Cixin

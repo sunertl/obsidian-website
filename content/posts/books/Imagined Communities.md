@@ -10,22 +10,13 @@ year: 1991
 rating: 10
 topics:
   - "[[Books]]"
-created: 2023-10-04
-last: 2023-10-29
 tags:
   - books
   - anthropology
   - non-fiction
+  - review
+date: 2023-10-29
 ---
-#books 
-
-- **Author**: [[Benedict Anderson]]
-- **Genre**: #books 
-- **Status**: #state/read 
-- **Date Read**: 2023-10-29
-
-![alt text|180](https://images-na.ssl-images-amazon.com/images/I/61G-RcbzxNL._SL200_.jpg)
-
 # Synopsis
 
 
