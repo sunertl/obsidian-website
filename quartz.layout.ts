@@ -44,7 +44,6 @@ export const defaultContentPageLayout: PageLayout = {
         linkToMore: "thoughts/" as SimpleSlug,
       }),
     ),
-    Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
     Component.Backlinks(),
