@@ -2,9 +2,9 @@
 title: home
 description: test
 aliases: homebase
+date: 2024-07-05
 ---
 
-# Test
+# Welcome
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Glad you found your way to my site.
