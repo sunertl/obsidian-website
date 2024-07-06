@@ -1,5 +1,7 @@
 ---
-title:  stefun.io
+title: home
+description: test
+aliases: homebase
 ---
 
 # Test
