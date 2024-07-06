@@ -1,6 +1,6 @@
 ---
 topics:
-  - "[[Topics/Projects]]"
+  - "[[Vault/Topics/Projects]]"
 type:
   - Self-Hosting
 start: 2024-02-12

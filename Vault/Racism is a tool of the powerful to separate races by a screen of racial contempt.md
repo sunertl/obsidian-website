@@ -7,7 +7,7 @@ tags:
   - quotes
   - fleeting
 topics:
-  - "[[History]]"
+  - "[[Vault/Topics/Philosophy/History]]"
   - "[[Racism]]"
 references:
   - "[[Divide Et Impera]]"

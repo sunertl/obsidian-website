@@ -1,6 +1,6 @@
 ---
 topics:
-  - "[[Topics/Recipes/Recipes]]"
+  - "[[Recipes]]"
 cuisine:
   - Indian
 type:

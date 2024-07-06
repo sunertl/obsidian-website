@@ -2,7 +2,7 @@
 tags:
   - people
 topics:
-  - "[[Philosophy]]"
+  - "[[docs/philosophy]]"
 ---
 # Wiki
 

@@ -11,5 +11,5 @@ This type of website is often referred to as a *digital garden*, a place that co
 
 Welcome.
 
-[[Projects]]
+[[Vault/Projects]]
 
