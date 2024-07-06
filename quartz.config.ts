@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Mostly Irrelevant",
+    pageTitle: "stefun.io",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
