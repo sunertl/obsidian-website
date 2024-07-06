@@ -43,12 +43,23 @@ ul,
 .math {
   color: var(--darkgray);
   fill: var(--darkgray);
-  overflow-wrap: break-word;
   hyphens: auto;
 }
 
+p,
+ul,
+text,
+a,
+li,
+ol,
+ul,
+.katex,
 .math {
-  font-size: 1rem;
+  overflow-wrap: anywhere;
+  /* tr and td removed from list of selectors for overflow-wrap, allowing them to use default 'normal' property value */
+}
+
+.math {
   &.math-display {
     text-align: center;
   }
@@ -89,7 +100,7 @@ a {
 
   &.external .external-icon {
     height: 1ex;
-    margin: 0 0.2em;
+    margin: 0 0.15em;
 
     > path {
       fill: var(--dark);
@@ -482,9 +493,13 @@ video {
   flex: 1 1 auto;
 }
 
+div:has(> .overflow) {
+  position: relative;
+}
+
 ul.overflow,
 ol.overflow {
-  max-height: 350px;
+  max-height: 400;
   overflow-y: auto;
 
   // clearfix
