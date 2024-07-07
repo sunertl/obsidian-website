@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/sunertl",
       "Bluesky": "https://bsky.app/profile/stefun.io",
+      "About": "https://stefun.io/about",
     },
   }),
 }
