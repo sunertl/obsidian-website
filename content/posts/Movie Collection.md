@@ -8,9 +8,11 @@ This is a collection of movies I own, watched and are planning to watch.
 ## Personal Canon
 
 
-| Movie | Rating |
-| ----- | ------ |
-| Jaws  | ★★★★★  |
+
+| [[Jaws]]                                      | 1975 | ★★★★★ |
+| --------------------------------------------- | ---- | ----- |
+| [[Spring, Summer, Fall, Winter...and Spring]] | 2003 | ★★★★  |
+
 
 
 
