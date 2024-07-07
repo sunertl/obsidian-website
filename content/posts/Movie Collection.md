@@ -8,17 +8,11 @@ This is a collection of movies I own, watched and are planning to watch.
 ## Personal Canon
 
 
-
-| Test   | Test  |
-| ------ | ----- |
-| test 1 | test2 |
-
-
 ## Movies Watched in 2024
 
 - Jaws (1975)
 - Civil War (2024)
-- 2001 A Space Odyseey (1968)
+- 2001 A Space Odyssey (1968)
 - Dune (Part Two, 2024)
 - Raging Bull (1980)
 - Spring, Summer, Fall, Winter...and Spring (2003)
