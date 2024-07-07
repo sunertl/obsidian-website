@@ -8,6 +8,12 @@ This is a collection of movies I own, watched and are planning to watch.
 ## Personal Canon
 
 
+| Movie | Rating |
+| ----- | ------ |
+| Jaws  | ★★★★★  |
+
+
+
 ## Movies Watched in 2024
 
 - Jaws (1975)
