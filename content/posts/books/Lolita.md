@@ -15,7 +15,7 @@ created: 2023-11-25
 last: 2023-12-22
 tags:
   - books
-  - review
+  - reviews
 ---
 # Synopsis
 

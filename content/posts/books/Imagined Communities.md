@@ -12,7 +12,7 @@ topics:
   - "[[Books]]"
 tags:
   - books
-  - review
+  - reviews
 date: 2023-10-29
 ---
 # Synopsis
