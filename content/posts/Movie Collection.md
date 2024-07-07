@@ -9,16 +9,18 @@ This is a collection of movies I own, watched and are planning to watch.
 
 
 
-| Movie                                         | Year | Rating |
-| --------------------------------------------- | ---- | ------ |
-| [[Jaws]]                                      | 1975 | ★★★★★  |
-| [[Spring, Summer, Fall, Winter...and Spring]] | 2003 | ★★★★   |
+| Movie                                         | Year | Rating  |
+| :--------------------------------------------- | :---- | :------- |
+| [[Jaws]]                                      | 1975 | ★★★★★   |
+| [[Spring, Summer, Fall, Winter...and Spring]] | 2003 | ★★★★1/2 |
 
 
 
 
-## Movies Watched in 2024
 
+## Movies Watched in 2024 (rewatches included)
+
+- 1917 ()
 - Jaws (1975)
 - Civil War (2024)
 - 2001 A Space Odyssey (1968)
