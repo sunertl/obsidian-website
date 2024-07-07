@@ -16,24 +16,25 @@ Below is an (almost) complete list of books I have read, am planning to read or 
 
 #### 2024
 
-- [[Writing to Learn]], Wiliam Zinsser
-- [[Extreme Ownership - How U.S. Navy Seals Lead and Win]], Jocko Willink, Leif Babin
-- [[The Five Dysfunctions of a Team]], [[Patrick M. Lencioni]]
+- Writing to Learn, Wiliam Zinsser
+- Extreme Ownership, Jocko Willink, Leif Babin
+- The Five Dysfunctions of a Team, Patrick M. Lencioni
 
 #### 2023
 
 - [[Imagined Communities]], Benedict Anderson
 - [[The Making of a Manager]], Julie Zhuo
 - [[Lolita]], Vladimir Nabokov
-- [[Indistractable]], Nir Eyal
-- [[How to Take Smart Notes]], Sönke Ahrens
+- Indistractable, Nir Eyal
+- How to Take Smart Notes, Sönke Ahrens
 
 
 ### To Read
 
 > tsundoku (積ん読) is the phenomenon of acquiring reading materials but letting them pile up in one's home without reading them.
 
-While I do believe that a private library has 
+I take notes which books my friends feel so strongly about that I just have to read them. I wish I had more time - or at least the proclivity to prioritize reading over anything else. Below is a list of books that I own but haven't started reading it (*tsundoku*) or on my list to buy. 
+
 #### Fiction
 
 - The Dispossessed, Ursula K. Le Guin
@@ -49,6 +50,5 @@ While I do believe that a private library has
 - Brave, New World, Aldous Huxley
 - Klara and the Sun, Kazuo Ishiguro 
 - Parables of the Talents and Sower, Octavia E. Butler
-- Hainish Cycle, Ursula Le Quin
-
-#### Non-Fiction
+- Hainish Cycle, Ursula K. Le Quin
+- East of Eden, John Steinbeck
