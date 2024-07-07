@@ -9,9 +9,10 @@ This is a collection of movies I own, watched and are planning to watch.
 
 
 
-| [[Jaws]]                                      | 1975 | ★★★★★ |
-| --------------------------------------------- | ---- | ----- |
-| [[Spring, Summer, Fall, Winter...and Spring]] | 2003 | ★★★★  |
+| Movie                                         | Year | Rating |
+| --------------------------------------------- | ---- | ------ |
+| [[Jaws]]                                      | 1975 | ★★★★★  |
+| [[Spring, Summer, Fall, Winter...and Spring]] | 2003 | ★★★★   |
 
 
 
