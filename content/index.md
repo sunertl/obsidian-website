@@ -6,7 +6,7 @@ date: 2024-07-05
 ---
 Welcome!
 
-Thanks for visiting my site! This is my own and curated place on the Internet. This type of website is often referred to as a *digital garden*, a place that consists of ideas that grow over time - it's a reflection of what one has been, done, and learnt.
+Thanks for visiting my site! This is my own and curated place on the Internet. This type of website is often referred to as a *[[Digital Garden]]*, a place that consists of ideas that grow over time - it's a reflection of what one has been, done, and learnt.
 
 I created this site to publish my notes on various projects I've been working on and experiences I've gained over the last couple of years. My notes are all created in [Obsidian](https://obsidian.md/) - a simple, yet powerful note-taking app based on [Markdown](https://en.wikipedia.org/wiki/Markdown) and are published with [Quartz](https://quartz.jzhao.xyz/).
 
