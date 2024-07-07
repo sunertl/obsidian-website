@@ -15,17 +15,8 @@ created: 2023-11-25
 last: 2023-12-22
 tags:
   - books
-  - movies
-  - "#read"
+  - review
 ---
-#books
-
-- **Author**: [[Vladimir Nabokov]]
-- **Genre**: #books 
-- **Status**: #state/read
-- **Date Read**: 2023-12-22
-
-![alt text|180](https://upload.wikimedia.org/wikipedia/commons/5/57/Lolita_1955.JPG)
 # Synopsis
 
 A French literature professor moves to New England and writes under the pseudonym Humbert Humbert. He describes his obsession with a 12-year-old 'nymphet', Dolores Haze, whom he kidnaps and sexually abuses after becoming her stepfather. 

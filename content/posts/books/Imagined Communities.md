@@ -12,8 +12,6 @@ topics:
   - "[[Books]]"
 tags:
   - books
-  - anthropology
-  - non-fiction
   - review
 date: 2023-10-29
 ---

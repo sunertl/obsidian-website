@@ -14,6 +14,8 @@ last: 2024-04-27
 imdbId: tt17279496
 tags:
   - movies
+  - review
+date: 2024-04-27
 ---
 ## Synopsis
 
