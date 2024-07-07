@@ -3,8 +3,6 @@ tags:
   - topics
 title: Movie Collection
 ---
-This is a collection of movies I own, watched and are planning to watch.
-
 ## Personal Canon
 
 In the off chance that someone from Letterboxd will interview me and ask for my four favorite films of all time, I'd probably give them this list:
@@ -13,7 +11,6 @@ In the off chance that someone from Letterboxd will interview me and ask for my 
 - Barry Lyndon
 - Come and See
 - High and Low
-
 
 ## Movies Watched in 2024 (rewatches included)
 
