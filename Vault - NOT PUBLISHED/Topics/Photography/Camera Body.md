@@ -1,6 +1,6 @@
 ---
 topics:
-  - "[[Photography]]"
+  - "[[Darkroom]]"
 references:
   - "[[Camera]]"
   - "[[Camera Lens]]"

@@ -2,7 +2,7 @@
 topics:
   - "[[Tool]]"
 references:
-  - "[[Photography]]"
+  - "[[Darkroom]]"
   - "[[Camera Lens]]"
   - "[[Camera Body]]"
   - "[[DSLR]]"

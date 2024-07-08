@@ -1,7 +1,14 @@
 ---
-title: Darkroom
+topics:
+  - "[[Hobby]]"
+type:
+  - Creativity
 tags:
   - topics
+references:
+  - "[[Photographic technique]]"
+  - "[[Monochrome photography]]"
+  - "[[Camera]]"
 ---
 ## Introduction - Personal Connection
 
