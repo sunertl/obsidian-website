@@ -17,6 +17,7 @@ imdbId: tt0073195
 tags:
   - movies
   - reviews
+date: 2024-07-07
 ---
 ## Synopsis
 When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.

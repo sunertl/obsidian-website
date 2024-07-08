@@ -9,6 +9,7 @@ references:
   - "[[Photographic technique]]"
   - "[[Monochrome photography]]"
   - "[[Camera]]"
+date: 2024-07-01
 ---
 ## Introduction - Personal Connection
 

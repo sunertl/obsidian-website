@@ -2,6 +2,7 @@
 tags:
   - topics
 title: Movie Collection
+date: 2024-07-01
 ---
 ## Personal Canon
 
