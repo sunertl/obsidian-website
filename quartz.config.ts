@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "stefun.io",
+    pageTitle: "lyceum",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
