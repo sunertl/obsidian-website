@@ -11,7 +11,7 @@ Below is an (almost) complete list of books I have read, am planning to read or 
 ### Reading
 
 - The Brothers Karamazov, Fyodor Dostoevsky
-- Prophet Song, Paul Lynch
+
 
 ### Read
 
@@ -20,6 +20,7 @@ Below is an (almost) complete list of books I have read, am planning to read or 
 - Writing to Learn, Wiliam Zinsser
 - Extreme Ownership, Jocko Willink, Leif Babin
 - The Five Dysfunctions of a Team, Patrick M. Lencioni
+- Prophet Song, Paul Lynch
 
 #### 2023
 
